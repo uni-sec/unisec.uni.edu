@@ -1,0 +1,15 @@
+:root {
+  --display-font: "Roboto", sans-serif;
+}
+code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+#hollywood  {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
